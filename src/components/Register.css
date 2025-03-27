@@ -1,0 +1,13 @@
+.App-Row{
+    display: flex;
+    background-color: bisque;
+    justify-content: center;
+}
+.App-Box{
+    /* display: flex; */
+    /* justify-content: center; */
+    margin: 40px;
+    padding: 20px;
+    border: 2px solid black;
+    border-radius: 10px;
+}
